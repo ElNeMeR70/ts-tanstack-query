@@ -1,0 +1,20 @@
+{
+  "name": "ts-tanstack-query",
+  "version": "1.0.0",
+  "description": "TanStack Query-inspired async cache with stale/fresh lifecycle",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "query", "cache", "async", "state-management"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-tanstack-query.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
